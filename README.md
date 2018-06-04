@@ -1,6 +1,6 @@
 # 1KP
 
-Simple notebook to map taxonomy information onto sequences we retrieve after querying the 1KP database.
+Simple notebook to map taxonomy information onto sequences we retrieve after querying the [1000 Plants database (1KP)](https://sites.google.com/a/ualberta.ca/onekp/) .
 
 You need to supply your email, the output file from 1KP, the xml file from 1KP, a file location for where you want to output 
 the cleaned sequences, and whether you want to trim the species (explained below) and add Taxonomy information 
